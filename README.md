@@ -24,6 +24,10 @@ git pull origin main
 ```
 git push origin main 
 ```
+### Clone de repositório remoto
+```
+git clone (link)
+```
 ### Terminal de comandos 
 ```
 ls
